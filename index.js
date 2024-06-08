@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["Bot made for Sydney Roleplay","Made by @.microbit_ (Founder of Sdyney Roleplay)"];
 
 
 let currentIndex = 0;
